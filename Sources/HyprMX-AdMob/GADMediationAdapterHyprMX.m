@@ -15,7 +15,7 @@ NSString * const kHyprMXAdErrorDomain = @"HyprMXAdError";
 // The release build number - corresponds to the matching HyprSDK Version
 NSString * const kHyprMarketplace_PatchVersion = @"0";
 // The build number of this adapter
-NSInteger const kHyprMarketplace_BuildNumber = 140;
+NSInteger const kHyprMarketplace_BuildNumber = 141;
 
 @implementation GADMediationAdapterHyprMX
 
